@@ -21,11 +21,12 @@ public class TestNG_08_SkipTestCase {
     public void test3(){
 
         System.out.println("Skipping this test based on condition");
-        if (datasetup = true){
+        if (datasetup == true){
             System.out.println("execute the test");
         }
         else {
-            System.out.println("");
+            System.out.println("Do not execute further step");
+            throw new SkipException("Do not execute further steps");
         }
 
     }
