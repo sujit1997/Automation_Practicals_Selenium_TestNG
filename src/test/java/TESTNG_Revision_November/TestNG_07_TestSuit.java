@@ -1,6 +1,6 @@
 package TESTNG_Revision_November;
 
-public class TestNG_07TestSuit {
+public class TestNG_07_TestSuit {
     // Write this as TestNG.XML File
 //<suite name ="functional suite">
 //        <test  name = "functional Tests">
