@@ -1,4 +1,5 @@
 <suite name="ReportSuite">
+
     <test name="Report Tests">
         <classes>
             <class name="TESTNG.TESTNG_18_Report"/>  <!-- only this one -->
