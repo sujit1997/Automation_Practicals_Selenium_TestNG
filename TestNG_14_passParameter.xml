@@ -1,0 +1,13 @@
+<suite name="Reading browser details from TestNG XML">
+    <test name="Reading browser details from TestNG XML">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="TESTNG_Revision_November.TestNG_14_PassParameterFromXml"/>  <!-- only this one -->
+        </classes>
+    </test>
+</suite>
+
+
+
+
+
