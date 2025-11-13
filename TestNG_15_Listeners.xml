@@ -1,0 +1,10 @@
+<suite name="Listeners test">
+    <listeners>
+        <listener class-name="TESTNG_Revision_November.TestNG_15_Listeners"> </listener>
+    </listeners>
+    <test name="Listeners Demo Test">
+        <classes>
+            <class name="TESTNG_Revision_November.TestNG_15_ListenersTestCase"/>  <!-- only this one -->
+        </classes>
+    </test>
+</suite>
