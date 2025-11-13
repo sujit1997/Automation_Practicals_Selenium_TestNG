@@ -29,12 +29,13 @@ public class TestNG_11_DataProvider {
         return dataset;
     }
 
-    @Test(dataProvider = "dataset1")
+    //Second way to provide data
+    @Test(dataProvider = "dataset1")//you can also write dataprovider name to access data
     public void test1(String username, String password, String test){
         System.out.println(username+"==="+password+"==="+test);
     }
-    //Second way to provide data
-    @DataProvider
+
+    @DataProvider//(name="create")
     public Object[][] dataset1(){
         return new Object[][]
                 {
