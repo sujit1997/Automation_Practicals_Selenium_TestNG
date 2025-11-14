@@ -1,6 +1,6 @@
-package TESTNG_Revision_November;
-
-public class TestNG_07_TestSuit {
+//package TESTNG_Revision_November;
+//
+//public class TestNG_07_TestSuit {
     // Write this as TestNG.XML File
 //<suite name ="functional suite">
 //        <test  name = "functional Tests">
@@ -13,8 +13,7 @@ public class TestNG_07_TestSuit {
 //        </classes>
 //        </test>
 // </suite>
-}
-
+//}
 
 // And we can also create MasterTestNG Suite XML file where we add all suite file and run
 //<suite name = "Master Suite">

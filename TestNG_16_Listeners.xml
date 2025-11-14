@@ -1,10 +1,10 @@
-<suite name="Listeners test">
-    <listeners>
-        <listener class-name="TESTNG_Revision_November.TestNG_16_Listeners"> </listener>
-    </listeners>
-    <test name="Listeners Demo Test">
-        <classes>
-            <class name="TESTNG_Revision_November.TestNG_16_ListenersDemoCase"/>  <!-- only this one -->
-        </classes>
-    </test>
-</suite>
+<!--<suite name="Listeners test">-->
+<!--    <listeners>-->
+<!--        <listener class-name="TESTNG_Revision_November.TestNG_16_Listeners"> </listener>-->
+<!--    </listeners>-->
+<!--    <test name="Listeners Demo Test">-->
+<!--        <classes>-->
+<!--            <class name="TESTNG_Revision_November.TestNG_16_ListenersDemoCase"/>  &lt;!&ndash; only this one &ndash;&gt;-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--</suite>-->
