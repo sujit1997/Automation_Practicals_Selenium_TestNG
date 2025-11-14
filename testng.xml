@@ -1,13 +1,10 @@
 <suite name="ReportSuite">
-
     <test name="Report Tests">
         <classes>
-            <class name="TESTNG.TESTNG_18_Report"/>  <!-- only this one -->
+            <class name="TESTNG_Revision_November.TestNG_18_ReportTest"/>
         </classes>
     </test>
 </suite>
-
-
 
 
 

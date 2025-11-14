@@ -10,7 +10,8 @@ public class TestNG_18_ReportTest {
     }
     @Test
     public void reportTest2(){
-        //Reporter.log("This is test2" +result.getName());// for every test output we can add this line in Listeners class
+
+        Reporter.log("This is test2" );// for every test output we can add this line in Listeners class
         //Reporter.log("Status of execution is - " +result.getStatus());
         System.out.println("This is test2");
     }
