@@ -1,4 +1,4 @@
-package SELENIUM_TESTNG_DECEMBER;
+package TESTNG_DECEMBER;
 
 import org.testng.annotations.Test;
 
